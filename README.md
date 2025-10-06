@@ -8,4 +8,11 @@
 
 
 
+Блок-схема:
+
+<img width="574" height="603" alt="image" src="https://github.com/user-attachments/assets/6c65deba-40f5-4754-92e5-1d0f8fed8b47" />
+
+
+
+
 Полянский Владимир бТИИ-251
